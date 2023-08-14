@@ -8,7 +8,8 @@ UE5 클라이언트 패키징 버전 관리 플러그인
 
 에디터 위젯을 실행해서 아래 이미지처럼 계속 유지해주세요
 
-![제목 없음-1](https://github.com/simpple28/ClientVer/assets/7029038/deeece9d-caa5-4041-ba81-b2455665209b)
+
+![2](https://github.com/simpple28/ClientVer/assets/7029038/42bf0195-6d7f-4c1c-800b-367c7fb1d761)
 
 
 이 플러그인은 MIT 라이센스로 제공됩니다.# ClientVer
